@@ -21,7 +21,7 @@ This repository provides centralized documentation and references for creating a
    Create an EC2 instance and set up Jenkins for continuous integration using Terraform.  
    [Repository Link](https://github.com/arifhossen/aws-ec2-infra-with-jenkins-setup-by-terraform)
 
-3. **Step 3: CICD, AWS Lambda function deploy by Jenkins **  
+3. **Step 3: CICD, AWS Lambda function deploy by Jenkins**  
    Deploy AWS Lambda functions automatically using Jenkins pipelines.  
    [Repository Link](#aws-lambda-deploy-by-jenkins-pipeline)
 
