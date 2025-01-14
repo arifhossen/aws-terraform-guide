@@ -26,7 +26,7 @@ This repository provides centralized documentation and references for creating a
    [Repository Link](#aws-lambda-deploy-by-jenkins-pipeline)
 
 3. **Step 4: AWS Lambda function for Deployment**  
-    Basic Lambda function 
-    [Repository Link](https://github.com/arifhossen/aws-lambda)
+   Basic Lambda function. 
+   [Repository Link](https://github.com/arifhossen/aws-lambda)
 
 ---
