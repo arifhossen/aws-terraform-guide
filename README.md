@@ -2,7 +2,7 @@
 For the central repository for all projects:  
 
 # **Terraform Project 1**
-### **Project name: AWS Serverless Infrastructure Automation and CI/CD with Terraform and Jenkins**  
+### **Project name: AWS Serverless Infrastructure Automation by terraform and CI/CD with Jenkins**  
 
 
 
