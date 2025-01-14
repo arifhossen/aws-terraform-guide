@@ -25,8 +25,8 @@ This repository provides centralized documentation and references for creating a
    Deploy AWS Lambda functions automatically using Jenkins pipelines.  
    [Repository Link](#aws-lambda-deploy-by-jenkins-pipeline)
 
-3. **Step 4: Basic Lambda function for Deployment**  
-    Deploy AWS Lambda functions automatically using Jenkins pipelines.  
+3. **Step 4: AWS Lambda function for Deployment**  
+    Basic Lambda function 
     [Repository Link](https://github.com/arifhossen/aws-lambda)
 
 ---
