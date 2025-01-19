@@ -28,6 +28,8 @@ This repository provides centralized documentation and references for creating a
    Deploy AWS Lambda functions automatically using Jenkins pipelines.  
    [Repository Link](#aws-lambda-deploy-by-jenkins-pipeline)
 
+    ![AWS EC2 Diagram](https://arifhossen.net/github_resources/aws_ec2_vpc_with_terraform.pngg "AWS EC2 with VPC Diagram by terraform")
+
 3. **Step 4: AWS Lambda function for Deployment**  
    Basic Lambda function. 
    [Repository Link](https://github.com/arifhossen/aws-lambda)
