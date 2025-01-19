@@ -17,6 +17,9 @@ This repository provides centralized documentation and references for creating a
    Create API Gateway, Lambda, and DynamoDB using Terraform.  
    [Repository Link](https://github.com/arifhossen/aws-infra-terraform-apigateway-lambda-dynamodb)
 
+   ![AWS Serverless Diagram](https://arifhossen.net/github_resources/aws_serverless_diagram_with_terraform.png "AWS Serverless Diagram Deploy by terraform")
+
+
 2. **Step 2: AWS EC2 Infrastructure & Jenkins Setup**  
    Create an EC2 instance and set up Jenkins for continuous integration using Terraform.  
    [Repository Link](https://github.com/arifhossen/aws-ec2-infra-with-jenkins-setup-by-terraform)
